@@ -1,10 +1,24 @@
+body {
+    font-size: 16px;
+    color: #2b283a;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+header {
+    background-color: #5f29a3;
+    padding: 45px 0;
+}
+
 h1 {
     color: whitesmoke;
     font-size: 36px;
     margin: 0;
 }
 
-h2 {}
+h2 {
+    margin-top: 0;
+}
 
 h3 {
     color: #d0aaff;
@@ -12,7 +26,9 @@ h3 {
     margin: 0;
 }
 
-p {}
+p {
+    margin: 0;
+}
 
 section {
     padding: 45px 0;
