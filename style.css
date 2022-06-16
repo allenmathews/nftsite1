@@ -16,6 +16,15 @@ h1 {
     margin: 0;
 }
 
+a {
+    color: #ef5839;
+    text-decoration: underline dotted;
+}
+
+a:hover {
+    color: #d4b44c;
+}
+
 h2 {
     margin-top: 0;
 }
